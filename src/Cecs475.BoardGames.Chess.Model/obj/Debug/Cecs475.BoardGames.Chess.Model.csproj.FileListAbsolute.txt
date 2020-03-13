@@ -1,0 +1,44 @@
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csprojResolveAssemblyReference.cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csprojAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.csproj.CopyComplete
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.Model\obj\Debug\Cecs475.BoardGames.Chess.Model.pdb

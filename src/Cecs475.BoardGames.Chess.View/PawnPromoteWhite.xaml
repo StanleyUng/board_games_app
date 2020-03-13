@@ -1,0 +1,80 @@
+﻿<Window x:Class="Cecs475.BoardGames.Chess.View.PawnPromoteWhite"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cecs475.BoardGames.Chess.View"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Background="White"
+        BorderBrush="Black"
+        BorderThickness="5"
+        ResizeMode="NoResize"
+        AllowsTransparency="True"
+        Height="150" Width="450">
+
+    <Window.Resources>
+        <Image x:Key="WhiteQueen" Source="Resources/WhiteQueen.png"/>
+        <Image x:Key="WhiteRook" Source="Resources/WhiteRook.png"/>
+        <Image x:Key="WhiteBishop" Source="Resources/WhiteBishop.png"/>
+        <Image x:Key="WhiteKnight" Source="Resources/WhiteKnight.png"/>
+    </Window.Resources>
+
+    <Grid>
+        <TextBlock> Promote pawn to:</TextBlock>
+        <Button x:Name="WhiteQueenPromote" Content="{StaticResource WhiteQueen}" Background="Blue" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+        <Button x:Name="WhiteRookPromote" Content="{StaticResource WhiteRook}" Background="Red" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="125,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+        <Button x:Name="WhiteBishopPromote" Content="{StaticResource WhiteBishop}" Background="Yellow" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="225,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+        <Button x:Name="WhiteKnightPromote" Content="{StaticResource WhiteKnight}" Background="Green" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="325,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+    </Grid>
+</Window>
+
+<!--
+<Window x:Class="Cecs475.BoardGames.Chess.View.PawnPromotionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cecs475.BoardGames.Chess.View"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        BorderBrush="Black"
+        BorderThickness="5"
+        ResizeMode="NoResize"
+        AllowsTransparency="True"
+        Height="150" Width="450">
+    <Window.Resources>
+        <Image x:Key="BlackQueen" Source="Resources/BlackQueen.png"/>
+        <Image x:Key="BlackRook" Source="Resources/BlackRook.png"/>
+        <Image x:Key="BlackBishop" Source="Resources/BlackBishop.png"/>
+        <Image x:Key="BlackKnight" Source="Resources/BlackKnight.png"/>
+        <local:ChessViewModel x:Key="vm"/>
+        <local:PawnPromotionConverter x:Key="PlayerImage"/>
+    </Window.Resources>
+    <Grid>
+        <TextBlock> Promote pawn to: </TextBlock>
+        
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="100" Width="100" Margin="425,25,0,0" Click="promoteChoice">
+            <Button.Content>
+                <MultiBinding Converter="{StaticResource PlayerImage}">
+                    <Binding ElementName="Player" />
+                    <Binding ElementName="PieceType" />
+                </MultiBinding>
+            </Button.Content>
+        </Button>
+
+<Button x:Name="QueenPromote" Content="{StaticResource BlackQueen}" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+<Button x:Name="RookPromote" Content="{StaticResource BlackRook}" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="125,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+<Button x:Name="BishopPromote" Content="{StaticResource BlackBishop}" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="225,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+<Button x:Name="KnightPromote" Content="{StaticResource BlackKnight}" Height="100" Width="100" 
+                HorizontalAlignment="Left" Margin="325,25,0,0" VerticalAlignment="Top" Click="promoteChoice"/>
+</Grid>
+</Window>
+-->

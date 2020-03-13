@@ -1,0 +1,34 @@
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe.config
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent_MarkupCompile.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent_MarkupCompile.lref
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.g.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.Properties.Resources.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe.config
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.csprojAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\MainWindow.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\App.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent_MarkupCompile.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent_MarkupCompile.lref
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\MainWindow.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.g.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.Properties.Resources.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.csproj.GenerateResource.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.csproj.CopyComplete
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.ComputerOpponent\obj\Debug\Cecs475.BoardGames.ComputerOpponent.pdb

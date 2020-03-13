@@ -1,0 +1,193 @@
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.lref
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.baml
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.g.resources
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.Properties.Resources.resources
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.baml
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.lref
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.baml
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.baml
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.baml
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.g.resources
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.Properties.Resources.resources
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.GenerateResource.Cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.lref
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.baml
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.baml
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.g.resources
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.Properties.Resources.resources
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.GenerateResource.Cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csprojResolveAssemblyReference.cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.lref
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.g.resources
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.Properties.Resources.resources
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.GenerateResource.Cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.baml
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.cache
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.lref
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.g.resources
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.Properties.Resources.resources
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.lref
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.g.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.Properties.Resources.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe.config
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csprojAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View_MarkupCompile.lref
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\App.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteBlack.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\ChessView.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\MainWindow.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\PawnPromoteWhite.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.g.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.Properties.Resources.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.GenerateResource.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.csproj.CopyComplete
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Chess.View\obj\Debug\Cecs475.BoardGames.Chess.View.pdb

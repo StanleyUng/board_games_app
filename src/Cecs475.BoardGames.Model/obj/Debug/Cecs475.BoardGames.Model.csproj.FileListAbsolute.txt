@@ -1,0 +1,27 @@
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Model\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Model\obj\Debug\Cecs475.BoardGames.Model.pdb

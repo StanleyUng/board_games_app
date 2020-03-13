@@ -1,0 +1,28 @@
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.csprojAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.View\obj\Debug\Cecs475.BoardGames.View.pdb

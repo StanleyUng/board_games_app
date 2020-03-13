@@ -1,0 +1,121 @@
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.lref
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.baml
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.g.resources
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.Properties.Resources.resources
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.lref
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.baml
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.g.resources
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.Properties.Resources.resources
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.GenerateResource.Cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.lref
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.baml
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.g.resources
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.Properties.Resources.resources
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csprojResolveAssemblyReference.cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.lref
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.g.resources
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.Properties.Resources.resources
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.GenerateResource.Cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.lref
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.g.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.Properties.Resources.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe.config
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csprojAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View_MarkupCompile.lref
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\OthelloView.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.g.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.Properties.Resources.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.GenerateResource.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.csproj.CopyComplete
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.Othello.View\obj\Debug\Cecs475.BoardGames.Othello.View.pdb

@@ -1,0 +1,212 @@
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe.config
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.lref
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.g.resources
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.Properties.Resources.resources
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Documents\GitHub\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe.config
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\App.g.cs
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.lref
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.baml
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.g.resources
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.Properties.Resources.resources
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanley Ung\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.lref
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe.config
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.baml
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.g.resources
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.Properties.Resources.resources
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Desktop\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe.config
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.dll
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.View.dll.config
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.pdb
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csprojResolveAssemblyReference.cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\App.g.cs
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.lref
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.baml
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.g.resources
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.Properties.Resources.resources
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.GenerateResource.Cache
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.exe
+F:\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe.config
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.Model.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.View.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.Model.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Chess.View.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Othello.View.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.Model.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.TicTacToe.View.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.cache
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.lref
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.g.resources
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.Properties.Resources.resources
+C:\Users\Stanl_000\Desktop\CECS 475\project2-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe.config
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\RestSharp.dll
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\RestSharp.xml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\LoadingWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\App.g.cs
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.lref
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\LoadingWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.g.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.Properties.Resources.resources
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanl_000\Documents\GitHub\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe.config
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.WpfApplication.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\RestSharp.dll
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.ComputerOpponent.exe.config
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Cecs475.BoardGames.View.pdb
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\bin\Debug\RestSharp.xml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csprojAssemblyReference.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\LoadingWindow.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\App.g.cs
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication_MarkupCompile.lref
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\GameChoiceWindow.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\LoadingWindow.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.g.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.Properties.Resources.resources
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.GenerateResource.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.csproj.CopyComplete
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.exe
+C:\Users\Stanley Ung\Desktop\CECS 475\project3-StanleyUng\src\Cecs475.BoardGames.WpfApplication\obj\Debug\Cecs475.BoardGames.WpfApplication.pdb
